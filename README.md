@@ -7,12 +7,13 @@ O objetivo deste projeto é validar hipóteses sobre os fatores que influenciam 
 
 ## Problema Central
 
-A gravadora levantou uma série de hipóteses sobre o que faz uma música ser mais ouvida. Essas hipóteses incluem:
-* Músicas com BPM (Batidas Por Minuto) mais altos fazem mais sucesso em termos de número de streams no Spotify.
-* As músicas mais populares no ranking do Spotify também possuem um comportamento semelhante em outras plataformas, como a Deezer.
-* A presença de uma música em um maior número de playlists está correlacionada com um maior número de streams.
-* Artistas com um maior número de músicas no Spotify têm mais streams.
-* As características da música influenciam o sucesso em termos de número de streams no Spotify.
+A gravadora levantou uma série de hipóteses sobre o que faz uma música ser mais ouvida. Essas hipóteses são:  
+
+1- Músicas com BPM (Batidas Por Minuto) mais altos fazem mais sucesso em termos de número de streams no Spotify.  
+2- As músicas mais populares no ranking do Spotify também possuem um comportamento semelhante em outras plataformas, como a Deezer.  
+3- A presença de uma música em um maior número de playlists está correlacionada com um maior número de streams.  
+4- Artistas com um maior número de músicas no Spotify têm mais streams.  
+5- As características da música influenciam o sucesso em termos de número de streams no Spotify.
 
 Vamos descobrir!
 
