@@ -53,7 +53,7 @@ Para explorar os insights, [acesse o dashboard em Power BI](https://app.powerbi.
 
 Este dashboard fornece uma visualização detalhada dos dados e das análises realizadas, permitindo uma compreensão mais profunda dos fatores que influenciam o sucesso de faixas musicais nas plataformas de streaming.
 
-## Autor
+## Analista de Dados
 *   **Cristiane Thiel**
 *   **Site:** [https://cristianethiel.com.br/](https://cristianethiel.com.br/)
 *   **LinkedIn:** [https://www.linkedin.com/in/cristianethiel/](https://www.linkedin.com/in/cristianethiel/)
