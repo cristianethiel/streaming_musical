@@ -48,6 +48,8 @@ Vamos descobrir!
 
 *Os resultados completos das análises e as recomendações estratégicas na [Ficha Técnica](/documentacao/ficha_tecnica_streaming.pdf).*
 
+👉 [Link para a Apresentação](https://www.loom.com/share/31d5822bcbf94b328ebd2a27554e43cd?sid=f5c463d3-95a2-4fcc-ae01-6cf484a940a3)
+
 ## Data Visualization
 
 Para explorar os insights, [acesse o dashboard em Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTA1NDRkYTctY2U1NC00YzU5LWFhNTEtZmNjNWU1MWJlYWU5IiwidCI6IjVhOGViYWRmLTdlNDQtNDYzZi04OTdiLThkYzhiODcwZDAyZiJ9&pageName=381d13ad7bdbeda55a28&pageName=381d13ad7bdbeda55a28)
